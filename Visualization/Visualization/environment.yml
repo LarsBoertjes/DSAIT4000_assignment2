@@ -1,0 +1,19 @@
+name: dsait4000vis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12.4
+  - pandas=2.2.2
+  - numpy=2.0.1
+  - bokeh=3.4
+  - scipy=1.14.0
+  - ipympl
+  - ipywidgets
+  - jupyter_client
+  - jupyter_server
+  - jupyter_console
+  - jupyter_core
+  - jupyterlab
+  - jupyterlab_widgets
+  - notebook
